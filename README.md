@@ -1,2 +1,2 @@
 # Platform-game
- Platform game 2D, coded in C# and made in Unity
+ Platform game 2D, coded in C# (scriptes) and made in Unity
